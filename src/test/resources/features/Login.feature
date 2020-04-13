@@ -14,6 +14,6 @@ Feature: Login feature
 
     Examples:
       | username         | password |
-      | ilhan@sample.com | test123 |
-      | hasan@sample.com | abc@123 |
-      | ismet@sample.com | 456@werr|
+      | seyma@sample.com | test123 |
+      | sumeyra@sample.com | abc@123 |
+      | aysegul@sample.com | 456@werr|

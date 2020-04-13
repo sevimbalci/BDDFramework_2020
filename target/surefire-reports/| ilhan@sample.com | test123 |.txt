@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: | ilhan@sample.com | test123 |
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 36.432 s <<< FAILURE! - in | ilhan@sample.com | test123 |
+Then I verify that I am in invalid login page(| ilhan@sample.com | test123 |)  Time elapsed: 0.011 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: Webdriver waited for 15 seconds nut still could not find the element therefore TimeOutException has been thrown (tried for 15 second(s) with 1000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(), 'Log Into Facebook')]"}
+  (Session info: chrome=80.0.3987.163)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Sevims-MBP.fios-router.home', ip: 'fe80:0:0:0:8b3:9cd9:ca10:6954%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: /var/folders/3_/fgf2s18d47j...}, goog:chromeOptions: {debuggerAddress: localhost:53921}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 96b10a17d0d4699e655b361203519c6b
+*** Element info: {Using=xpath, value=//span[contains(text(), 'Log Into Facebook')]}
+

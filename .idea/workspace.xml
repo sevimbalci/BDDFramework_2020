@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40de318f-700f-46af-933b-bf4ea193ca60" name="Default Changelist" comment="" />
+    <list default="true" id="40de318f-700f-46af-933b-bf4ea193ca60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,6 +45,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn install" />
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -111,26 +130,26 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="320" y="104" key="#Project_Structure/0.23.1440.828@0.23.1440.828" timestamp="1585601046063" />
-    <state width="1358" height="79" key="GridCell.Tab.0.bottom" timestamp="1585700318071">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1586727605072">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585404467491" />
-    <state width="1358" height="79" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585700318071" />
-    <state width="1358" height="79" key="GridCell.Tab.0.center" timestamp="1585700318070">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586727605072" />
+    <state width="1358" height="430" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586006506847" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1586727605071">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585404467490" />
-    <state width="1358" height="79" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585700318070" />
-    <state width="1358" height="79" key="GridCell.Tab.0.left" timestamp="1585700318070">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586727605071" />
+    <state width="1358" height="430" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586006506845" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1586727605070">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585404467489" />
-    <state width="1358" height="79" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585700318070" />
-    <state width="1358" height="79" key="GridCell.Tab.0.right" timestamp="1585700318071">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586727605070" />
+    <state width="1358" height="430" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586006506843" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1586727605071">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585404467490" />
-    <state width="1358" height="79" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585700318071" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586727605071" />
+    <state width="1358" height="430" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586006506846" />
     <state x="229" y="76" key="SettingsEditor" timestamp="1585183503179">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
@@ -139,6 +158,11 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="376" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585183734298" />
+    <state x="405" y="179" width="670" height="734" key="run.anything.popup" timestamp="1586727463427">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="179" width="670" height="734" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1586727463427" />
+    <state x="405" y="188" width="670" height="675" key="run.anything.popup/0.23.1440.828@0.23.1440.828" timestamp="1586005741913" />
     <state x="385" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1585183856179">
       <screen x="0" y="23" width="1440" height="828" />
     </state>

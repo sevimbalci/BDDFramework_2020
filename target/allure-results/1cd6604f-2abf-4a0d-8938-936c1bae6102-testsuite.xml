@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586729340578" stop="1586729342975" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login from messenger page</name>
+    <title>Verify invalid login from messenger page</title>
+    <test-cases>
+        <test-case start="1586729340578" stop="1586729340578" status="passed">
+            <name>Given I am on messenger page</name>
+            <title>Given I am on messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729340755" stop="1586729340755" status="passed">
+            <name>When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page</name>
+            <title>When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729340811" stop="1586729340811" status="passed">
+            <name>And I enter test123 into password field on the messenger page</name>
+            <title>And I enter test123 into password field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729342815" stop="1586729342815" status="passed">
+            <name>And I click on login button on messenger page</name>
+            <title>And I click on login button on messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729342839" stop="1586729342840" status="passed">
+            <name>Then I verify invalid login message on sign in page</name>
+            <title>Then I verify invalid login message on sign in page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login from messenger page"/>
+        <label name="feature" value="Messenger page feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586729326999" stop="1586729337102" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login for multiple users | aysegul@sample.com | 456@werr |</name>
+    <title>Verify invalid login for multiple users | aysegul@sample.com | 456@werr |</title>
+    <test-cases>
+        <test-case start="1586729326999" stop="1586729326999" status="passed">
+            <name>Given I am on home page</name>
+            <title>Given I am on home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729327140" stop="1586729327140" status="passed">
+            <name>When I enter aysegul@sample.com into username text fields on home screen</name>
+            <title>When I enter aysegul@sample.com into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729327223" stop="1586729327223" status="passed">
+            <name>And I enter 456@werr into password text fields on home screen</name>
+            <title>And I enter 456@werr into password text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729336947" stop="1586729336947" status="passed">
+            <name>And I click on login button on home screen</name>
+            <title>And I click on login button on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586729336970" stop="1586729336970" status="passed">
+            <name>Then I verify that I am in invalid login page</name>
+            <title>Then I verify that I am in invalid login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Sevims-MBP.fios-router.home"/>
+                <label name="thread" value="1661@Sevims-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login for multiple users | aysegul@sample.com | 456@werr |"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
